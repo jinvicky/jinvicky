@@ -6,7 +6,7 @@ jinvicky/README.md
 경험과 지식은 쌓이고 확장되어야 빛을 발합니다. 저의 경험과 지식을 이야기하고 동료들과 함께 문제를 해결해 나가는 것을 좋아합니다.
 
 - 블로그: https://velog.io/@jinvicky/posts
-- 이메일: jinvicky@naver.com, jinvicky17@gmail.com
+- 이메일: jinvicky@naver.com
 --------
 ### Work Experience
 
